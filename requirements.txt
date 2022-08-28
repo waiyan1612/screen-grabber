@@ -1,0 +1,4 @@
+Pillow==9.2.0
+pyautogui==0.9.53
+pytesseract==0.3.10
+PyPDF2==2.10.3
